@@ -1,7 +1,5 @@
 # 코딩 문제 풀이 스터디 규칙
-
-<br />
-<br />
+One week, One meeting, One problem, One to One coding test study
 
 ## 📌 문제풀이 문서와 소스코드 저장하는 규칙 
 - 자세한 형식은 `./예시_githubID` 폴더를 참고 해봅니다.
