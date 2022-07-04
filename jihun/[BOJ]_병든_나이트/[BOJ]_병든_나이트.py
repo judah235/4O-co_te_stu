@@ -10,3 +10,4 @@ elif m<=3:
     print(m)
 else:
     print(m-7+5)
+    
